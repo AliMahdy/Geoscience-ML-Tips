@@ -146,10 +146,13 @@ If you use these tips in your research, teaching, or workflows, please cite:
 
 *Star ⭐ this repo to get notified when new tips drop!*
 
-🙏 Help me grow this resource:
-• Star ⭐ the repo to support open geoscience
-• Tag a colleague who's exploring ML in their work
-• Comment below: What's your #1 ML challenge in geoscience?
+> 🙏 Help me grow this resource:
+> 
+>• Star ⭐ the repo to support open geoscience
+> 
+>• Tag a colleague who's exploring ML in their work
+> 
+>• Comment below: What's your #1 ML challenge in geoscience?
 
 ---
 
